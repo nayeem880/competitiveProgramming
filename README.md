@@ -1,5 +1,6 @@
 ## Competitive_Python 1.0.0 
 **Date : 4-19-2020**
+
 Python practices for competitve programming tutorials using python standard library, HackerRank, CodeChef and other competitive programming platforms
 
 **class_01.ipynb** 
