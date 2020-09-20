@@ -1,0 +1,7 @@
+{
+    "workbench.colorTheme": "Quiet Light",
+    "files.associations": {
+        "*html": "html",
+        "iostream": "cpp"
+    }
+}
